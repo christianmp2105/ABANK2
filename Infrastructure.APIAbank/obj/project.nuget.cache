@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yrx2ble6rlk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian Monge\\source\\repos\\APIAbank\\Infrastructure.APIAbank\\Infrastructure.APIAbank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christian Monge\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}
